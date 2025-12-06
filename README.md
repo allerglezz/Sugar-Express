@@ -81,11 +81,14 @@ Puedes usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o
 
 Consulta el archivo **LICENSE** para más detalles.
 
-https://blueprintue.com/blueprint/kvcat_sg first person character
-https://blueprintue.com/blueprint/d9_tcqba first person player controller
-https://blueprintue.com/blueprint/r9q9d81a FirstPersonProjectile
-https://blueprintue.com/blueprint/8_1ds13r animacion conejo
-https://blueprintue.com/blueprint/p0kl9bnf gestor de items
-https://blueprintue.com/blueprint/n9bizqln/ gestor holders
-https://blueprintue.com/blueprint/1d_fqw0j asignacion pedido
-https://blueprintue.com/blueprint/-c33dq09 generador de recetas
+## 🗂️ Documentación Interna
+
+- `FirstPersonCharacter` — https://blueprintue.com/blueprint/kvcat_sg 
+- `FirstPersonPlayerController` — https://blueprintue.com/blueprint/d9_tcqba  
+- `FirstPersonProjectile` — https://blueprintue.com/blueprint/r9q9d81a
+- `AnimacionConejo` — https://blueprintue.com/blueprint/8_1ds13r
+- `GestorItems` — https://blueprintue.com/blueprint/p0kl9bnf
+- `GestorHolders` — https://blueprintue.com/blueprint/n9bizqln/
+- `AsignacionPedido` — https://blueprintue.com/blueprint/1d_fqw0j
+- `GestorRecetas` — https://blueprintue.com/blueprint/-c33dq09
+
